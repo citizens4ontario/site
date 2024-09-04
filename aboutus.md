@@ -18,4 +18,4 @@ We believe the City of Ontario should be transparent and accountable to its citi
 - This is meant to be a purely factual source of information. If you find something that is false, please let us know, and site what sources you can.
 - This is **NOT** a political platform, and we have no political affiliations.
 - This is **NOT** a platform for opinions. We are not interested in opinions, only facts.
-- As you can tell this is not meant to be pretty, but functional. We are not designers, we are citizens.
+- As you can tell this is not meant to be pretty, but functional. We are not designers, we are citizens :)

@@ -24,5 +24,7 @@ I leave you with these questions:
  - Why does the city manager’s office want such heavy involvement in how the city is audited?
  - If the city has nothing to hide, why does it appear to be hiding something?
 
+[Instagram Post](https://www.instagram.com/p/C-cIIBcxjwc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 ### Sources
 [Redacted emails from Brad Neumann](/assets/img/city-auditor-emails-redacted.pdf)

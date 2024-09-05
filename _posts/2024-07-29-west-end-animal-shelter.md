@@ -2,7 +2,7 @@
 layout: post
 title: Ontario and Chino Decide to cut ties with Inland Valley Humane Society
 subtitle: Ontario and Chino Decide to cut ties with Inland Valley Humane Society
-tags: [west end animal shelter, chino, district 3]
+tags: [West End Animal Shelter, Chino, District 3]
 author: Michael Rios
 ---
 

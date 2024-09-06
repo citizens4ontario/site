@@ -16,9 +16,13 @@ Have you wondered why you haven't seen much more about Jim Bowman's DUI? It coul
 
 These are just some of the largest contributions made in the last 2 years. I'm just a guy collecting this info after work, so there is definitely **A LOT** more to be found.
 
+It is **NOT** normal for a city council to recieve these amounts of money from single contributors.
+
 | Contributor                                              | Amount  | To             |
 |----------------------------------------------------------|---------|----------------|
+| Ontario Professional Firefighters Assoc. IAFF Local 1430 | $55,000 | Jim Bowman     |
 | Ontario Police Officers Association PAC                  | $41,806 | Alan Wapner    |
+| Ontario Police Officers Association PAC                  | $36,500 | Jim Bowman     |
 | Archibald's                                              | $35,000 | Paul Leon      |
 | Ontario Professional Firefighters Assoc. IAFF Local 1430 | $34,000 | Alan Wapner    |
 | Firefighters for Responsible Government                  | $29,941 | Debora Porada  |

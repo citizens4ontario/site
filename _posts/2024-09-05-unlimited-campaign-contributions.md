@@ -41,6 +41,8 @@ It is **NOT** normal for a city council to recieve these amounts of money from s
 
 ### Sources
 
+[Campaign Financial Filings](https://public.netfile.com/pub2/?aid=ONT)
+
 [Ontario Municipal Code Sec. 2-10.06](https://codelibrary.amlegal.com/codes/ontarioca/latest/ontario_ca/0-0-0-65998)
 
 [Common Cause Municipal Index Report 2022](https://www.commoncause.org/california/wp-content/uploads/2024/04/CA-Municipal-Index-Reportv3-Final.pdf)

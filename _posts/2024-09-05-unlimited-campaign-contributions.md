@@ -3,7 +3,6 @@ layout: post
 title: Ontario is 1 of Only 12 Cities to Allow Unlimited Campaign Contributions 
 subtitle: Out of about 482 cities in CA, only 12 allow for unlimited campaign contributions, and Ontario is one of them.
 thumbnail-img: /assets/img/contribution-limits-law-sec-2-10-06.png
-cover-img: /assets/img/contribution-limits-law-sec-2-10-06.png
 tags: [City Council Shenanigans, Campaign Contributions]
 author: Michael Rios
 ---

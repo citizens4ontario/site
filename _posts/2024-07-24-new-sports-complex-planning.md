@@ -5,7 +5,6 @@ subtitle: New Sports facilities to be build on Vineyard Ave. and E Riverside Dr.
 thumbnail-img: /assets/img/sports_complex_plan.png
 share-img: /assets/img/sports_complex_plan.png
 tags: [Sports Complex, Cool Things Happening, District 3]
-author: Michael Rios
 ---
 
 The conceptual plan for the sports facility.

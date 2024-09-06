@@ -2,7 +2,6 @@
 layout: post
 title: Ontario City Manager's Office Fires City Auditor for Trying to Audit City 
 tags: [City Council Shenanigans, City Auditor]
-author: Michael Rios
 ---
 
 I wanted to share some of what happened in the comments section in the latest city council meeting.

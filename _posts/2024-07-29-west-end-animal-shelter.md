@@ -3,7 +3,6 @@ layout: post
 title: Ontario and Chino Decide to cut ties with Inland Valley Humane Society
 subtitle: Ontario and Chino Decide to cut ties with Inland Valley Humane Society
 tags: [West End Animal Shelter, Chino, District 3]
-author: Michael Rios
 ---
 
   - Chino and Ontario will build a new $50 million animal services facility at Riverside Dr. and Campus

@@ -24,7 +24,8 @@ navbar-links:
   Resources:
     - City Council Minutes: "https://www.ontarioca.gov/Agendas/CityCouncil"
     - Annual Budgets: "https://www.ontarioca.gov/FiscalServices/BudgetFinancialReports"
-    - Campaign Contribution Filings: "https://public.netfile.com/pub2/?aid=ONT"
+    - Campaign Finance Filings: "https://public.netfile.com/pub2/?aid=ONT"
+    - City of Ontario Laws: "https://codelibrary.amlegal.com/codes/ontarioca/latest/ontario_ca/0-0-0-35678"
 
 ################
 # --- Logo --- #
